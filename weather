@@ -88,7 +88,6 @@ def weather_entpoint():
         	"cloudcover" : weather['locations'][querystring['location']]["values"][0]["cloudcover"]
                  }
         }
-    print(weather.keys())
     return result
 
 
