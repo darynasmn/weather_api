@@ -7,7 +7,23 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Kyiv",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Lviv",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Dresden",
 			"request": {
 				"method": "GET",
 				"header": []
